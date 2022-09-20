@@ -1,6 +1,6 @@
 import logo from './Linux_Logo.png';
 import './App.css';
-
+import * as Fundamental from './FundaMental'
 function App() {
   return (
     <div className="App">
