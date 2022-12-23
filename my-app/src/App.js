@@ -1,12 +1,13 @@
 // import logo from './Pic/Linux_Logo.png';
-import headerH1 from './Area_Studying/headerH1'
+import headerTag from './Area_Studying/headerTag'
+
 
 import './App.css';
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>{headerH1}</h1>
+        <h3>{headerTag}</h3>
       </header>
     </div>
   );
